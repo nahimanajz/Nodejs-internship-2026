@@ -1,7 +1,7 @@
 ## Project Overview
 This is libray management apis, for you nodejs and express upskilling we will first store data in datastructure 
 therefore we will use database like mysql or postgress
-## steps needed to be taken
+## Steps needed to be taken
 Follow instructions from `github-guidance.md`, `api-reference.md` and `coding-rules.md`
 ## Objectives 
 - Learn using github
