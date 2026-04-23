@@ -465,15 +465,6 @@ In Phase 1 you look up the book manually in your service and attach it to each l
   "data": []
 }
 ```
-
-**User not found — `404`**
-```json
-{
-  "success": false,
-  "message": "User not found"
-}
-```
-
 ---
 
 ## All endpoints at a glance
